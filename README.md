@@ -1,4 +1,3 @@
-<img width="912" height="373" alt="image" src="https://github.com/user-attachments/assets/349f77fb-0541-4e44-9acc-ede4198a920a" /># Healthcare-Data-Analytics
 Axon Healthcare is struggling to convert EMR data into meaningful insight due to siloed system, manual reporting, and lack of real-time visibility into clinical and operational KPIs. Stakeholders rely on outdated Excel reports, making decision-making slow and reactive
 
 KPIs
